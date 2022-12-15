@@ -42,5 +42,4 @@ All files is formatted Betty style and checked using betty-style.pl and betty-do
 All header files is guarded
 
 ## Author
-Heindrick Cheung
-Josh Jimenez
+Pheello Molokoli
